@@ -1,4 +1,4 @@
-# USB to Dual CAN-Bus Board 🔌🚌🚌  
+# USB to Dual CAN-Bus Board
 **雙通道 CAN-Bus USB 轉接板範例專案**
 
 This project provides example code for the **UTL USB to Dual CAN-Bus EVM Board**, using a Seeeduino XIAO microcontroller to control two MCP2515 CAN transceivers via SPI.  
