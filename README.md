@@ -1,4 +1,4 @@
-# USB to Dual CAN-Bus Board 🔌
+# USB to Dual CAN-Bus Board
 
 本專案為 **UTL USB to Dual CAN-Bus EVM Board** 的範例程式碼，使用 Seeeduino XIAO 作為主控，透過 SPI 控制雙路 MCP2515 CAN 控制器，實現 USB to Dual CAN-Bus 功能。  
 支援 Arduino IDE 開發與快速上手。
