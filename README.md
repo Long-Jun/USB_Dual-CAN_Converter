@@ -82,7 +82,7 @@ It enables USB communication with two independent CAN-Bus channels via MCP2515.
 ## 🧑‍💻 Author & License
 
 - Author: [Long Jun, Chiou](https://github.com/Long-Jun) @ NTUT UTL & SPIE Lab  
-- License: MIT
+- License: Apache-2.0
 
 ---
 
