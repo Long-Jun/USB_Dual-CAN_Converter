@@ -44,11 +44,12 @@ It enables USB communication with two independent CAN-Bus channels via MCP2515.
    將本專案複製或下載，放入 Arduino `libraries/` 目錄。
 
 3. **接線說明**  
-   | Seeeduino XIAO Pin | MCP2515 #1 | MCP2515 #2 |
+   | Seeeduino XIAO Pin | MCP2515 CAN1 | MCP2515 CAN2 |
    |---------------------|------------|------------|
-   | D2 (INT)            | INT        | INT        |
-   | D3 (CS)             | CS         | -          |
-   | D4 (CS)             | -          | CS         |
+   | D0 (INT1)           | INT        |            |
+   | D1 (INT2)           |            | INT        |
+   | D2 (CS1)            | CS         | -          |
+   | D3 (CS2)            | -          | CS         |
    | SPI (SCK/MOSI/MISO) | 共用       | 共用       |
 
 4. **上傳範例程式**  
